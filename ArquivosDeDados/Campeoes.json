@@ -1,0 +1,17 @@
+{"char01":
+		{
+            "nome":"Tranzão"
+            ,"ataque":5
+            ,"defesa":4
+            ,"pontos_de_vida":3
+            ,"habilidade":"Chuta a bunda"
+		}
+,"char02":
+		{
+            "nome":"Tonto"
+            ,"ataque":8
+            ,"defesa":5
+            ,"pontos_de_vida":7
+            ,"habilidade":"Desce a paulada"
+		}
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../BotDiscord/.idea/BotDiscord.iml" filepath="$PROJECT_DIR$/../../BotDiscord/.idea/BotDiscord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Automatizacoes/Criação de DBDs/.idea/Criação de DBDs.iml" filepath="$PROJECT_DIR$/../../Automatizacoes/Criação de DBDs/.idea/Criação de DBDs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ProjetoArcadiaQuest.iml" filepath="$PROJECT_DIR$/.idea/ProjetoArcadiaQuest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../excluiProdutosGVI/.idea/excluiProdutosGVI.iml" filepath="$PROJECT_DIR$/../excluiProdutosGVI/.idea/excluiProdutosGVI.iml" />
+    </modules>
+  </component>
+</project>
