@@ -1,6 +1,6 @@
 {"char01":
 		{
-            "nome":"Tranzão"
+            "nome":"char01"
             ,"ataque":5
             ,"defesa":4
             ,"pontos_de_vida":3
@@ -8,7 +8,7 @@
 		}
 ,"char02":
 		{
-            "nome":"Tonto"
+            "nome":"char02"
             ,"ataque":8
             ,"defesa":5
             ,"pontos_de_vida":7
