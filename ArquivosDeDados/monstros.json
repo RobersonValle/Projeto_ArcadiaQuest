@@ -1,0 +1,152 @@
+{
+    "monstro1":
+    {
+        "nome": "Lorde Presas",
+        "titulo": "Vilão Maior",
+        "tipo_ataque":"Distância",
+        "ataque": 4,
+        "defesa": 0,
+        "pontos_de_vida": 5,
+        "over_kill": 7,
+        "movimentos": 1,
+        "moedas": 3,
+        "habilidade": "Banho de Sangue",
+        "descricao_habilidade": "Também pode ter como alvo qualquer número de Inimigos Perto do Alvo.",
+        "nivel": 1
+    },
+    "monstro2":
+    {
+        "nome": "Minotauro",
+        "titulo": "Vilão Menor",
+        "tipo_ataque":"Próximo",
+        "ataque": 4,
+        "defesa": 1,
+        "pontos_de_vida": 5,
+        "over_kill": 6,
+        "movimentos": 2,
+        "moedas": 3,
+        "habilidade": "Chifrada",
+        "descricao_habilidade": "Cada Critico causa 1 acerto adicional.",
+        "nivel":1
+    },
+    "monstro3":
+    {
+        "nome": "Arqueiro Goblin",
+        "titulo": "Lacaio Menor",
+        "tipo_ataque":"Distância",
+        "ataque": 2,
+        "defesa": 0,
+        "pontos_de_vida": 1,
+        "over_kill": 2,
+        "movimentos": 1,
+        "moedas": 1,
+        "habilidade": "Flechada no Joelo",
+        "descricao_habilidade": "(Não possui efeito).",
+        "nivel":1
+    },
+    "monstro4":
+    {
+        "nome": "Troll",
+        "titulo": "Vilão Menor",
+        "tipo_ataque":"Próximo",
+        "ataque": 4,
+        "defesa": 2,
+        "pontos_de_vida": 4,
+        "over_kill": 6,
+        "movimentos": 2,
+        "moedas": 3,
+        "habilidade": "Esmagar Cabeças",
+        "descricao_habilidade": "Tem como alvo todos os Heróis que estão perto.",
+        "nivel":1
+    },
+    "monstro5":
+    {
+        "nome": "Saqueador Orc",
+        "titulo": "Lacaio Menor",
+        "tipo_ataque":"Próximo",
+        "ataque": 3,
+        "defesa": 0,
+        "pontos_de_vida": 2,
+        "over_kill": 3,
+        "movimentos": 1,
+        "moedas": 1,
+        "habilidade": "Corta e Partir",
+        "descricao_habilidade": "(Não possui efeito).",
+        "nivel":1
+    },
+    "monstro6":
+    {
+        "nome": "Feral Lanceiro",
+        "titulo": "Lacaio Maior",
+        "tipo_ataque":"Distância",
+        "ataque": 3,
+        "defesa": 0,
+        "pontos_de_vida": 3,
+        "over_kill": 5,
+        "movimentos": 1,
+        "moedas": 2,
+        "habilidade": "Arremesso de lança",
+        "descricao_habilidade": "Rola +1 dado se estiver Perto de qualquer Monstro.",
+        "nivel":1
+    },
+    "monstro7":
+    {
+        "nome": "Feral Martelador",
+        "titulo": "Lacaio Maior",
+        "tipo_ataque":"Próximo",
+        "ataque": 4,
+        "defesa": 0,
+        "pontos_de_vida": 3,
+        "over_kill": 5,
+        "movimentos": 1,
+        "moedas": 2,
+        "habilidade": "Martela o martelão",
+        "descricao_habilidade": "Se ele causar um Ferimento, o alvo ficará Atordoado.",
+        "nivel":1
+    },
+    "monstro8":
+    {
+        "nome": "Capitão Orc",
+        "titulo": "Lacaio Menor",
+        "tipo_ataque":"Próximo",
+        "ataque": 3,
+        "defesa": 0,
+        "pontos_de_vida": 2,
+        "over_kill": 4,
+        "movimentos": 1,
+        "moedas": 2,
+        "habilidade": "Corta e Partir",
+        "descricao_habilidade": "Pode realizar uma rerolagem.",
+        "nivel":1
+    },
+    "monstro9":
+    {
+        "nome": "Irmã do Prazer",
+        "titulo": "Lacaio Maior",
+        "tipo_ataque":"Distância",
+        "ataque": 3,
+        "defesa": 0,
+        "pontos_de_vida": 3,
+        "over_kill": 5,
+        "movimentos": 1,
+        "moedas": 2,
+        "habilidade": "Sugar Sangue",
+        "descricao_habilidade": "Ao atacar, cada Critico cura 2 de seus Ferimentos.",
+        "nivel":1
+    },
+    "monstro10":
+    {
+        "nome": "Irmã da Dor",
+        "titulo": "Lacaio Maior",
+        "tipo_ataque":"Próximo",
+        "ataque": 3,
+        "defesa": 0,
+        "pontos_de_vida": 3,
+        "over_kill": 5,
+        "movimentos": 1,
+        "moedas": 2,
+        "habilidade": "Lamento de Agonia",
+        "descricao_habilidade": "Ao atacar, cada Critico exausta 1 das cartas de ataque do alvo.",
+        "nivel":1
+    }
+}

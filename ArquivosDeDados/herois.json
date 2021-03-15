@@ -1,0 +1,97 @@
+{"heroi1":
+		{
+            "nome":"Kanga"
+            ,"defesa":2
+            ,"pontos_de_vida":4
+            ,"habilidade":"Sacrifício"
+            ,"descricao_habilidade":"Pode sofrer 1 Ferimento em vez de exaustar uma carta."
+		}
+,"heroi2":
+		{
+            "nome":"Casacaverde"
+            ,"defesa":2
+            ,"pontos_de_vida":4
+            ,"habilidade":"Domínio do Arco"
+            ,"descricao_habilidade":"Ao atacar com uma carta de ataque Arco, a cada critico causa 1 acerto adicional."
+		}
+,"heroi3":
+		{
+            "nome":"Hobsbawm"
+            ,"defesa":2
+            ,"pontos_de_vida":4
+            ,"habilidade":"Bênção"
+            ,"descricao_habilidade":"Se ele usar uma carta de ataque Mágica e não fizer seu movimento, você pode ativar outro Aliado em sua Linha de Visão."
+		}
+,"heroi4":
+		{
+            "nome":"Escarlate"
+            ,"defesa":3
+            ,"pontos_de_vida":3
+            ,"habilidade":"Punhalada pelas Costas"
+            ,"descricao_habilidade":"Role +1 dado ao atacar um alvo flanqueado (um alvo com pelo menos 1 outro Inimigo Perto dele)."
+		}
+,"heroi5":
+		{
+            "nome":"Espetado"
+            ,"defesa":2
+            ,"pontos_de_vida":3
+            ,"habilidade":"Vingança"
+            ,"descricao_habilidade":"Cada Critico obtido em sua rolagem de Defesa causa 1 Ferimento no atacante."
+		}
+,"heroi6":
+		{
+            "nome":"Grom"
+            ,"defesa":1
+            ,"pontos_de_vida":5
+            ,"habilidade":"Fúria de Combate"
+            ,"descricao_habilidade":"Role +1 dado em todas as rolagens enquanto estiver ferido."
+		}
+,"heroi7":
+		{
+            "nome":"Zazu"
+            ,"defesa":2
+            ,"pontos_de_vida":4
+            ,"habilidade":"Oportunidade"
+            ,"descricao_habilidade":"Não exausta uma carta de ataque ao atacar um alvo flaqueado (um alvo com pelo menos 1 outro Inimigo Perto dele."
+		}
+,"heroi8":
+		{
+            "nome":"Johan"
+            ,"defesa":3
+            ,"pontos_de_vida":3
+            ,"habilidade":"Arremessar Espadas"
+            ,"descricao_habilidade":"Pode usar as cartas de ataque Espada como cartas de ataque A Distância (você ainda precisa de resultados Próximos para acertar."
+		}
+ ,"heroi9":
+		{
+            "nome":"Diva"
+            ,"defesa":4
+            ,"pontos_de_vida":4
+            ,"habilidade":"Dura como Pedra"
+            ,"descricao_habilidade":"Força invencel, eu te apresento o objeto inalável (Não possui efeito)"
+		}
+ ,"heroi10":
+		{
+            "nome":"Seth"
+            ,"defesa":2
+            ,"pontos_de_vida":3
+            ,"habilidade":"Magica Penetrante"
+            ,"descricao_habilidade":"Ao atacar com uma carta de ataque Mágica, o alvo não rola dados de Defesa."
+		}
+,"heroi11":
+		{
+            "nome":"Vapor"
+            ,"defesa":2
+            ,"pontos_de_vida":3
+            ,"habilidade":"Furtividade"
+            ,"descricao_habilidade":"Ao se mover não aciona a Reação de Alerta."
+		}
+,"heroi12":
+		{
+            "nome":"Maya"
+            ,"defesa":1
+            ,"pontos_de_vida":5
+            ,"habilidade":"Domínio de Mana"
+            ,"descricao_habilidade":"Pode exaustar duas vezes cada carta de ataque de Mágica"
+		}
+}

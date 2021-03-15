@@ -1,0 +1,42 @@
+{
+  "equipamento1":
+  {
+    "nome": "Estilingue",
+    "tipo_carta": "Arco",
+    "tipo_ataque": "Distância",
+    "ataque": 2,
+    "Descricao_habilidade": "(Não possui efeito)."
+  },
+    "equipamento2":
+  {
+    "nome": "Raio Nova",
+    "tipo_carta": "Mágica",
+    "tipo_ataque": "Distância",
+    "ataque": 2,
+    "Descricao_habilidade": "Se este ataque rolar pelo menos um Critico, poderá atingir um Inimigo adicional Perto do alvo."
+  },
+    "equipamento3":
+  {
+    "nome": "Espada Enferrujada",
+    "tipo_carta": "Espada",
+    "tipo_ataque": "Próximo",
+    "ataque": 3,
+    "Descricao_habilidade": "(Não possui efeito)."
+  },
+    "equipamento4":
+  {
+    "nome": "Adaga Aparadora",
+    "tipo_carta": "Espada",
+    "tipo_ataque": "Próximo",
+    "ataque": 2,
+    "Descricao_habilidade": "Ganha mais um dados de Defesa."
+  },
+    "equipamento5":
+  {
+    "nome": "Drenar Vida",
+    "tipo_carta": "Mágica",
+    "tipo_ataque": "Distância",
+    "ataque": 2,
+    "Descricao_habilidade": "Cada acerto cura 1 Ferimento desse Herói."
+  }
+}
